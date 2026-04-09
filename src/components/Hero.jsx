@@ -43,7 +43,7 @@ const Hero = () => {
           className="mt-10 flex flex-wrap items-center justify-center gap-5 md:justify-start"
         >
           <motion.a
-            href="#projects"
+            href="/projects"
             whileHover={{ scale: 1.02, y: -2 }}
             whileTap={{ scale: 0.98 }}
             className="btn-primary flex items-center gap-2 bg-orange-600 px-8 py-4 font-semibold text-white transition-transform duration-200 shadow-[0_10px_40px_rgba(234,88,12,0.2)]"
