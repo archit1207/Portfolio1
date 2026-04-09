@@ -6,7 +6,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import BackgroundSVG from "../components/BackgroundSVG";
 import GlowBlobs from "../components/GlowBlobs";
-import projectsData from "../data/Projectdata";
+import projectsData from "../data/projectsData";
 
 const projects = projectsData;
 
